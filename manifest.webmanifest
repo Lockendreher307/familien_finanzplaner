@@ -2,7 +2,7 @@
   "name": "Familien-Finanzmanager",
   "short_name": "Finanzmanager",
   "description": "Lokaler Familien-Finanzmanager für Rechnungen, Belege, Haushaltsbuch, Planung und Backup.",
-  "start_url": "./index.html",
+  "start_url": "./familien_finanzplaner/index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#f6f7fb",
