@@ -1,0 +1,26 @@
+{
+  "name": "Familien-Finanzmanager",
+  "short_name": "Finanzmanager",
+  "description": "Lokaler Familien-Finanzmanager für Rechnungen, Belege, Haushaltsbuch, Planung und Backup.",
+  "start_url": "./familien_finanzmanager_v9_7_2.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#175cd3",
+  "orientation": "any",
+  "lang": "de-DE",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
